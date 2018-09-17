@@ -1,0 +1,11 @@
+C:\Users\bivan\source\repos\TaskJunior.Net\TaskJunior.Net\bin\Debug\netcoreapp2.0\TaskJunior.Net.deps.json
+C:\Users\bivan\source\repos\TaskJunior.Net\TaskJunior.Net\bin\Debug\netcoreapp2.0\TaskJunior.Net.runtimeconfig.json
+C:\Users\bivan\source\repos\TaskJunior.Net\TaskJunior.Net\bin\Debug\netcoreapp2.0\TaskJunior.Net.runtimeconfig.dev.json
+C:\Users\bivan\source\repos\TaskJunior.Net\TaskJunior.Net\bin\Debug\netcoreapp2.0\TaskJunior.Net.dll
+C:\Users\bivan\source\repos\TaskJunior.Net\TaskJunior.Net\bin\Debug\netcoreapp2.0\TaskJunior.Net.pdb
+C:\Users\bivan\source\repos\TaskJunior.Net\TaskJunior.Net\obj\Debug\netcoreapp2.0\TaskJunior.Net.csprojResolveAssemblyReference.cache
+C:\Users\bivan\source\repos\TaskJunior.Net\TaskJunior.Net\obj\Debug\netcoreapp2.0\TaskJunior.Net.csproj.CoreCompileInputs.cache
+C:\Users\bivan\source\repos\TaskJunior.Net\TaskJunior.Net\obj\Debug\netcoreapp2.0\TaskJunior.Net.AssemblyInfoInputs.cache
+C:\Users\bivan\source\repos\TaskJunior.Net\TaskJunior.Net\obj\Debug\netcoreapp2.0\TaskJunior.Net.AssemblyInfo.cs
+C:\Users\bivan\source\repos\TaskJunior.Net\TaskJunior.Net\obj\Debug\netcoreapp2.0\TaskJunior.Net.dll
+C:\Users\bivan\source\repos\TaskJunior.Net\TaskJunior.Net\obj\Debug\netcoreapp2.0\TaskJunior.Net.pdb
